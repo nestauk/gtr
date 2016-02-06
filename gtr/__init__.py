@@ -5,3 +5,4 @@ __version__ = "0.1.0"
 
 from gtr.services.base import _Service
 from gtr.services.funds import Funds
+from gtr.services.organisations import Organisations
