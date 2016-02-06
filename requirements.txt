@@ -1,0 +1,11 @@
+cookies==2.2.1
+coverage==4.0.3
+coveralls==1.1
+py==1.4.31
+pytest==2.8.7
+pytz==2015.7
+requests==2.9.1
+responses==0.5.1
+six==1.10.0
+snowballstemmer==1.2.1
+wheel==0.26.0
