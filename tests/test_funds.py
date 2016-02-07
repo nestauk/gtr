@@ -4,8 +4,7 @@ import gtr
 
 @responses.activate
 def test_fund():
-    "Searching by fund id works"
-
+    """Searching by fund id works."""
     with open("tests/results.json") as results:
         body = results.read()
 
@@ -28,8 +27,7 @@ def test_fund():
 
 @responses.activate
 def test_funds():
-    "Searching for funds works"
-
+    """Searching for funds works."""
     with open("tests/results.json") as results:
         body = results.read()
 
