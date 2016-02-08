@@ -63,4 +63,25 @@ Services
 Installation
 ============
 
-.. todo:: Add install instructions
+Get the Code
+------------
+
+gtr is available on `GitHub <https://github.com/nestauk/gtr>`_.
+
+You can either clone the public repository::
+
+    $ git clone git://github.com/nestauk/gtr.git
+
+Download the `tarball <https://github.com/jamesgardiner/chwrapper/tarball/master>`_::
+
+    $ curl -OL https://github.com/nestauk/gtr/tarball/master
+
+Or, download the `zipball <https://github.com/jamesgardiner/chwrapper/zipball/master>`_::
+
+    $ curl -OL https://github.com/nestauk/gtr/zipball/master
+
+
+Once you have a copy of the source, you can embed it in your Python package,
+or install it into your site-packages easily::
+
+    $ python setup.py install
