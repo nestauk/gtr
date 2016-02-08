@@ -7,3 +7,4 @@ from gtr.services.base import _Service
 from gtr.services.funds import Funds
 from gtr.services.organisations import Organisations
 from gtr.services.persons import Persons
+from gtr.services.projects import Projects
