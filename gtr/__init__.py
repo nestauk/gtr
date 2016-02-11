@@ -1,5 +1,8 @@
 __all__ = [
-    "gtr.services.funds.Funds"
+    "gtr.services.funds.Funds",
+    "gtr.services.organisations.Organisations",
+    "gtr.services.persons.Persons",
+    "gtr.services.projects.Projects"
 ]
 __version__ = "0.1.0"
 
