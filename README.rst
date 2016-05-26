@@ -2,8 +2,8 @@
 gtr
 ===
 
-.. image:: https://travis-ci.org/Nesta/gtr.png?branch=master
-   :target: https://travis-ci.org/Nesta/gtr
+.. image:: https://travis-ci.org/nestauk/gtr.png?branch=master
+   :target: https://travis-ci.org/nestauk/gtr
 
 .. image:: https://coveralls.io/repos/Nesta/gtr/badge.svg?branch=master&service=github
     :target https://coveralls.io/r/Nesta/gtr
@@ -72,11 +72,11 @@ You can either clone the public repository::
 
     $ git clone git://github.com/nestauk/gtr.git
 
-Download the `tarball <https://github.com/jamesgardiner/chwrapper/tarball/master>`_::
+Download the `tarball <https://github.com/jamesgardiner/nestauk/tarball/master>`_::
 
     $ curl -OL https://github.com/nestauk/gtr/tarball/master
 
-Or, download the `zipball <https://github.com/jamesgardiner/chwrapper/zipball/master>`_::
+Or, download the `zipball <https://github.com/jamesgardiner/nestauk/zipball/master>`_::
 
     $ curl -OL https://github.com/nestauk/gtr/zipball/master
 
