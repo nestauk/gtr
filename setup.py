@@ -18,7 +18,7 @@ setup(name='gtr',
       install_requires=[
           'requests==2.9.1',
       ],
-      download_url = 'https://github.com/nesta/gtr/tarball/0.1'
+      download_url='https://github.com/nesta/gtr/tarball/0.1',
       classifiers=[
         "Operating System :: OS Independent",
         "Programming Language :: Python",
@@ -29,5 +29,4 @@ setup(name='gtr',
         "Programming Language :: Python :: 3.3",
         "Programming Language :: Python :: 3.4",
         "Programming Language :: Python :: 3.5",
-      ],
-      tests_require=['pytest'])
+      ])
