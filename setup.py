@@ -6,13 +6,13 @@ def readme():
         return f.read()
 
 setup(name='gtr',
-      version='0.1.1',
+      version='0.1',
       description='A Python interface to the Gateway To Research GTR-2 API.',
       long_description=readme(),
       url='http://github.com/nestauk/gtr',
       author='James Gardiner',
       author_email='james.gardiner@nesta.org.uk',
-      license='MIT',
+      license='APACHEV2.0',
       packages=find_packages(),
       zip_safe=False,
       install_requires=[
@@ -28,4 +28,5 @@ setup(name='gtr',
         "Programming Language :: Python :: 3.3",
         "Programming Language :: Python :: 3.4",
         "Programming Language :: Python :: 3.5",
-      ])
+      ],
+      tests_require=['pytest'])
