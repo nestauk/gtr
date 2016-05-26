@@ -5,7 +5,7 @@ __all__ = [
     "gtr.services.projects.Projects",
     "gtr.services.publications.Publications"
 ]
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from gtr.services.base import _Service
 from gtr.services.funds import Funds

@@ -6,7 +6,7 @@ def readme():
         return f.read()
 
 setup(name='gtr',
-      version='0.1.0',
+      version='0.1.1',
       description='A Python interface to the Gateway To Research GTR-2 API.',
       long_description=readme(),
       url='http://github.com/nestauk/gtr',
