@@ -16,7 +16,7 @@ setup(name='gtr',
       packages=find_packages(),
       zip_safe=False,
       install_requires=[
-          'requests==2.9.1',
+          'requests==2.20.0',
       ],
       download_url='https://github.com/nesta/gtr/tarball/0.1',
       classifiers=[
