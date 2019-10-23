@@ -1,3 +1,5 @@
+[Deprecated: please use https://github.com/nestauk/nesta/blob/dev/nesta/packages/gtr/get_gtr_data.py]
+
 ===
 gtr
 ===
